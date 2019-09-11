@@ -19,7 +19,7 @@ class Song
 
   def initialize(id=nil, name, album)
     @id = id
-    @name = name
+    @name = name 
     @album = album
   end
 
